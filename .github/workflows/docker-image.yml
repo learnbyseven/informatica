@@ -25,6 +25,6 @@ jobs:
       uses: docker/build-push-action@v4
       with:
         push: true
-        tags: giriraj789/info:v1
+        tags: giriraj789/informatica:v1
         
     
